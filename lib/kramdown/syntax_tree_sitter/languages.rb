@@ -45,6 +45,7 @@ module Kramdown
             'source.toml' => %w[toml],
             'source.ts' => %w[ts typescript],
             'source.vhd' => %w[vhdl],
+            'source.yaml' => %w[yml yaml],
             'text.html.basic' => %w[html],
             'text.html.erb' => %w[erb eruby rhtml]
           }
